@@ -3,7 +3,7 @@ My solution projects of the JavaScript Algorithms and Data Structures
 
 **Solutions are in the certificate footer**
 
-![image](https://user-images.githubusercontent.com/87162909/126923382-c02be5bd-4f3b-4fe7-9119-262e4e30674b.png)
+<a href="https://www.freecodecamp.org/certification/jmperez/javascript-algorithms-and-data-structures"><img src="https://user-images.githubusercontent.com/87162909/126923382-c02be5bd-4f3b-4fe7-9119-262e4e30674b.png" width="500"></a>
 
 *My Certification :)*
 
